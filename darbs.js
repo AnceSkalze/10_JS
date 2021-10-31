@@ -14,6 +14,6 @@ setTimeout("document.bgColor = 'DarkSlateGrey'" , 16000);
 //alert(3+"9"+6); Paziņojuma lodziņš
 //console.log(5+8+"15");
 function aka(){
-    document.getElementById("paka").innerHTML=4+9;
+    document.getElementById("paka").innerHTML="sveiki";
 }
 document.write("astīte")
